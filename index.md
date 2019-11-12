@@ -2,7 +2,7 @@
 
 ## VIDEO 1
 
-[[embed url=http://www.youtube.com/watch?v=6YbBmqUnoQM]]
+http://www.youtube.com/watch?v=6YbBmqUnoQM
 
 - coucou
 * coucou2
