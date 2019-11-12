@@ -10,7 +10,7 @@
     class="video-js"
     controls
     preload="auto"
-   <!-- poster="//vjs.zencdn.net/v/oceans.png" miniature -->
+    poster="//vjs.zencdn.net/v/oceans.png"
     data-setup='{}'>
   <source src="http://ubuvideo.memoryoftheworld.org/Abu-Ali-Mustafa_They-Do-Not-Exist_1974.mp4" type="video/mp4"></source>
   <p class="vjs-no-js">
