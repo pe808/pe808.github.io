@@ -10,11 +10,9 @@
     class="video-js"
     controls
     preload="auto"
-    poster="//vjs.zencdn.net/v/oceans.png"
+   <!-- poster="//vjs.zencdn.net/v/oceans.png" miniature -->
     data-setup='{}'>
-  <source src="//vjs.zencdn.net/v/oceans.mp4" type="video/mp4"></source>
-  <source src="//vjs.zencdn.net/v/oceans.webm" type="video/webm"></source>
-  <source src="//vjs.zencdn.net/v/oceans.ogv" type="video/ogg"></source>
+  <source src="http://ubuvideo.memoryoftheworld.org/Abu-Ali-Mustafa_They-Do-Not-Exist_1974.mp4" type="video/mp4"></source>
   <p class="vjs-no-js">
     To view this video please enable JavaScript, and consider upgrading to a
     web browser that
