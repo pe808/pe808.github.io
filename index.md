@@ -3,7 +3,7 @@
 <script src="//vjs.zencdn.net/7.3.0/video.min.js"></script>
   </head>
 
-## PLAYER
+## PLAYER VIDEO
 
 <video
     id="my-player"
