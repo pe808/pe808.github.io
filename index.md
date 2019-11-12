@@ -6,7 +6,7 @@
 
 ## AUDIO 1
 
-http://ubusound.memoryoftheworld.org/obscure-2/Ensemble-Pieces_OBS-02_1-Aran_Hobbs.mp3
+<audio src="http://ubusound.memoryoftheworld.org/obscure-2/Ensemble-Pieces_OBS-02_1-Aran_Hobbs.mp3"></audio>
 
 - coucou
 * coucou2
