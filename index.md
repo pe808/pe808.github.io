@@ -4,6 +4,10 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/htjtwcjVlNw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## AUDIO LOCAL
+
+<audio src="media/1-06 Advice to Medics.mp3 controls></audio>
+
 ## AUDIO URL
 
 <audio src="http://ubusound.memoryoftheworld.org/obscure-2/Ensemble-Pieces_OBS-02_1-Aran_Hobbs.mp3" controls></audio>
