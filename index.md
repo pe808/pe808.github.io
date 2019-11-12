@@ -18,7 +18,7 @@
 
 ## SOUNDCLOUD TRACK
 
-<iframe width="100%" height="30" scrolling="yes" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/661897895&color=%23ff0000&inverse=false&auto_play=false&show_user=true"></iframe>
+<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/661897895&color=%23a4b56a&inverse=false&auto_play=false&show_user=true"></iframe>
 
 - coucou
 * coucou2
